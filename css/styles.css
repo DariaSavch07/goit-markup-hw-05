@@ -462,6 +462,9 @@ background-color: #31d0aa;
 .footer-div-itim {
     margin-right: 120px;
 }
+.footer-div-icon{
+    margin-right: 80px;
+}
 
 .footer-div-text {
     font-weight: 500;
@@ -494,4 +497,52 @@ background-color: #31d0aa;
 
 .footer-icon {
     fill:#f4f4fd;
+}
+
+.lable-input {
+    border: 1px solid #fff;
+border-radius: 4px;
+width: 264px;
+height: 40px;
+display: flex;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.lable-par {
+    margin-bottom: 16px;
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.footer_par {
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+
+.footer-form{
+    margin-right: 24px;
+}
+
+.footer_ul {
+    display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+gap: 16px;
+border-radius: 4px;
+padding: 8px 24px;
+width: 165px;
+height: 40px;
+background-color: #4d5ae5;
+}
+
+.footer_li {
+    display: flex;
+    gap: 16px;
 }
