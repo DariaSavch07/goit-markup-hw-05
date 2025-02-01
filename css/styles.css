@@ -525,6 +525,7 @@ color: #FFFFFF;
 
 .footer-form{
     gap: 24px;
+    display: flex;
 }
 
 .footer-button {
