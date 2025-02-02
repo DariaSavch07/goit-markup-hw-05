@@ -656,6 +656,11 @@ margin-bottom: 16px;
 
 .div-input:hover,
 .div-input:focus {
+    border-color: #4D5AE5;
+}
+
+.div-icon:hover,
+.div-icon:focus {
     fill: #4D5AE5;
 }
 
