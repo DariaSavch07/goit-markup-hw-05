@@ -655,6 +655,7 @@ margin-bottom: 16px;
 }
 
 .div-input:focus {
+    fill: #4D5AE5;
     border-color: #4D5AE5;
 }
 
