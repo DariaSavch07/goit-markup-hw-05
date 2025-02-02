@@ -725,6 +725,7 @@ margin-bottom: 16px;
     align-items: center;
     justify-content: center;
     fill: transparent;
+    border: 1px solid rgba(46, 47, 66, 0.4); 
 }
 
 .div-input-privacy:checked, .lable-span {
@@ -733,7 +734,7 @@ margin-bottom: 16px;
     fill:#F4F4FD;
 }
 
-.lable-link {
+.lable-text {
     color:#4d5ae5;
 }
 
