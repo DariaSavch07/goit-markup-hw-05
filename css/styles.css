@@ -724,7 +724,7 @@ margin-bottom: 16px;
 
 
 
-.div-input-privacy:checked, .lable-span {
+.div-input-privacy:checked + .privacy-label .lable-span {
     background-color:#404bbf;
     border: none;
     fill:#F4F4FD;
